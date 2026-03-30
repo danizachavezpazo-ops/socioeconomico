@@ -1,0 +1,5 @@
+{
+  "name": "Social & Economic Dashboard",
+  "description": "An interactive executive dashboard for analyzing regional socio-economic indicators including poverty, income, and unemployment.",
+  "requestFramePermissions": []
+}
